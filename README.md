@@ -37,6 +37,11 @@
 	<img style="margin: auto;" src="./resources/vsc_logo.png" alt=isual_Studio_Code width="60" height="60"/>
 </p>
 
+<h4 align="center">Higher education (Высшее образование):</h4>
+<p align="center">
+  Togliatti State University (Bachelor degree) 2024 | Тольяттинский государственный университет (бакалавриат) 2024
+</p>
+
 <h4 align="center">Contacts (Связь со мной): </h4>
 <p align="center">
 	<a href=https://t.me/rick_biuick target="blank"><img align="center" src=./resources/Telegram_logo.webp alt="Telegram" height="40" width="40" /></a>
