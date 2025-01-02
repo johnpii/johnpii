@@ -35,13 +35,14 @@
 	<img style="margin: auto;" src="./resources/xUnit_logo.png" alt=xUnit width="60" height="60"/> 
 </p>
 
-<h4>Desktop Environment (Среды разработки): </h4>
+<h4>IDEs and Code Editors (Среды разработки): </h4>
 <p align="left">
 	<img style="margin: auto;" src="./resources/VS_logo.png" alt=Visual_Studio width="60" height="60"/>
 	<img style="margin: auto;" src="./resources/VSC_logo.png" alt=Visual_Studio_Code width="60" height="60"/>
+	<img style="margin: auto;" src="./resources/Google_Colab_logo.png" alt=Visual_Studio_Code width="60" height="60"/>
 </p>
 
-<h4 align="center"> Higher education (Высшее образование)🎓:</h4>
+<h4 align="center"> Higher Education (Высшее образование)🎓:</h4>
 <p align="center">
   	Togliatti State University (Bachelor degree) 2024 | Тольяттинский государственный университет (бакалавриат) 2024
 </p>
