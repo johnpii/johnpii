@@ -12,7 +12,7 @@
 	<img style="margin: auto;" src="./resources/dotnet_logo.png" alt=dotnet width="60" height="60"/> 
 	<img style="margin: auto;" src="./resources/EF_logo.png" alt=Entity_Framework width="60" height="60"/>
 	<img style="margin: auto;" src="./resources/SQL_Server_logo.png" alt=SQL_Server width="60" height="60"/>
-	<img style="margin: auto;" src="./resources/Postgresql_logo.png" alt=PostgreSQL width="60" height="60"/>
+	<img style="margin: auto;" src="./resources/PostgreSQL_logo.png" alt=PostgreSQL width="60" height="60"/>
 	<img style="margin: auto;" src="./resources/Mongodb_logo.webp" alt=MongoDB width="60" height="60"/>
 	<img style="margin: auto;" src="./resources/Redis_logo.png" alt=Redis width="60" height="60"/>
 	<img style="margin: auto;" src="./resources/Firebase_logo.webp" alt=Firebase width="60" height="60"/>
