@@ -2,7 +2,7 @@
 
 <h4>Programming Languages (Языки программирования): </h4>
 <p align="left">
-	 <img style="margin: auto;" src="./resources/c_sharp_logo.webp" alt=cplusplus width="60" height="60"/>
+	 <img style="margin: auto;" src="./resources/C_Sharp_logo.webp" alt=cplusplus width="60" height="60"/>
 	 <img style="margin: auto;" src="./resources/JavaScript_logo.png" alt=c width="60" height="60"/>
 	 <img style="margin: auto;" src="./resources/Python_logo.png" alt=python width="60" height="60"/>
 </p>
@@ -20,7 +20,7 @@
 	<img style="margin: auto;" src="./resources/docker_compose_logo.png" alt=Docker_Compose width="60" height="60"/> 
 	<img style="margin: auto;" src="./resources/Kubernetes_logo.png" alt=Kubernetes width="60" height="60"/> 
 	<img style="margin: auto;" src="./resources/HTML5_logo.png" alt=HTML width="60" height="60"/> 
-	<img style="margin: auto;" src="./resources/css_logo.png" alt=CSS width="60" height="60"/>   
+	<img style="margin: auto;" src="./resources/CSS_logo.png" alt=CSS width="60" height="60"/>   
 	<img style="margin: auto;" src="./resources/git_logo.png" alt=git width="60" height="60"/> 
 	<img style="margin: auto;" src="./resources/google_logo.png" alt=Google width="60" height="60"/>
 	<img style="margin: auto;" src="./resources/ChatGPT_logo.png" alt=CharGPT width="60" height="60"/>
