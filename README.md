@@ -1,5 +1,9 @@
 ## Hi (Привет) 👋
 
+<p align="center"> 
+  <img src="./resources/dino_gif.gif" /><br>
+</p>
+
 <h4>Programming Languages (Языки программирования): </h4>
 <p align="left">
 	 <img style="margin: auto;" src="./resources/C_Sharp_logo.webp" alt=C_Sharp width="60" height="60"/>
