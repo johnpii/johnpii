@@ -14,7 +14,7 @@
 	<img style="margin: auto;" src="./resources/SQL_Server_logo.png" alt=SQL_Server width="60" height="60"/>
 	<img style="margin: auto;" src="./resources/Postgresql_logo.png" alt=PostgreSQL width="60" height="60"/>
 	<img style="margin: auto;" src="./resources/Mongodb_logo.webp" alt=MongoDB width="60" height="60"/>
-	<img style="margin: auto;" src="./resources/redis_logo.png" alt=Redis width="60" height="60"/>
+	<img style="margin: auto;" src="./resources/Redis_logo.png" alt=Redis width="60" height="60"/>
 	<img style="margin: auto;" src="./resources/Firebase_logo.webp" alt=Firebase width="60" height="60"/>
 	<img style="margin: auto;" src="./resources/Docker_logo.webp" alt=Docker width="60" height="60"/> 
 	<img style="margin: auto;" src="./resources/Docker_Compose_logo.png" alt=Docker_Compose width="60" height="60"/> 
