@@ -23,7 +23,7 @@
 	<img style="margin: auto;" src="./resources/CSS_logo.png" alt=CSS width="60" height="60"/>   
 	<img style="margin: auto;" src="./resources/git_logo.png" alt=git width="60" height="60"/> 
 	<img style="margin: auto;" src="./resources/Google_logo.png" alt=Google width="60" height="60"/>
-	<img style="margin: auto;" src="./resources/ChatGPT_logo.png" alt=CharGPT width="60" height="60"/>
+	<img style="margin: auto;" src="./resources/ChatGPT_logo.png" alt=ChatGPT width="60" height="60"/>
 	<img style="margin: auto;" src="./resources/GithubActions_logo.png" alt=GitHub_Actions width="60" height="60"/> 
 	<img style="margin: auto;" src="./resources/JWT_logo.svg" alt=JWT width="60" height="60"/>   
 	<img style="margin: auto;" src="./resources/SignaR_logo.png" alt=SignalR width="60" height="60"/> 
