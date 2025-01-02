@@ -21,7 +21,7 @@
 	<img style="margin: auto;" src="./resources/Kubernetes_logo.png" alt=css3 width="60" height="60"/> 
 	<img style="margin: auto;" src="./resources/HTML5_logo.png" alt=html5 width="60" height="60"/> 
 	<img style="margin: auto;" src="./resources/css_logo.png" alt=css3 width="60" height="60"/>   
-	<img style="margin: auto;" src="./resources/git_logo.webp" alt=html5 width="60" height="60"/> 
+	<img style="margin: auto;" src="./resources/git_logo.png" alt=html5 width="60" height="60"/> 
 	<img style="margin: auto;" src="./resources/google_logo.png" alt=css3 width="60" height="60"/>
 	<img style="margin: auto;" src="./resources/ChatGPT_logo.png" alt=css3 width="60" height="60"/>
 	<img style="margin: auto;" src="./resources/guthubActions_logo.png" alt=html5 width="60" height="60"/> 
