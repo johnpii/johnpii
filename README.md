@@ -32,7 +32,11 @@
 	<img style="margin: auto;" src="./resources/JWT_logo.svg" alt=JWT width="60" height="60"/>   
 	<img style="margin: auto;" src="./resources/SignaR_logo.png" alt=SignalR width="60" height="60"/> 
 	<img style="margin: auto;" src="./resources/SonarCloud_logo.png" alt=SonarCloud width="60" height="60"/>  
-	<img style="margin: auto;" src="./resources/xUnit_logo.png" alt=xUnit width="60" height="60"/> 
+	<img style="margin: auto;" src="./resources/xUnit_logo.png" alt=xUnit width="60" height="60"/>
+	<img style="margin: auto;" src="./resources/Selenium_logo.png" alt=Selenium width="60" height="60"/> 
+	<img style="margin: auto;" src="./resources/NodeJS_logo.png" alt=NodeJS width="60" height="60"/> 
+	<img style="margin: auto;" src="./resources/Exel_logo.png" alt=Exel width="60" height="60"/> 
+	<img style="margin: auto;" src="./resources/Word_logo.png" alt=Word width="60" height="60"/> 
 </p>
 
 <h4>IDEs and Code Editors (Среды разработки): </h4>
