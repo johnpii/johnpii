@@ -42,7 +42,7 @@
 	<img style="margin: auto;" src="./resources/Google_Colab_logo.png" alt=Google_Colab width="60" height="60"/>
 </p>
 
-<h4 align="center"> Higher Education (Высшее образование)🎓:</h4>
+<h4 align="center">🎓Higher Education (Высшее образование)🎓:</h4>
 <p align="center">
   	Togliatti State University (Bachelor degree) 2024 | Тольяттинский государственный университет (бакалавриат) 2024
 </p>
