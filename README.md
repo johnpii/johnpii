@@ -9,37 +9,36 @@
 
 <h4>Skills and Tools (Инструменты): </h4>
 <p align="left">
-	<img style="margin: auto;" src="./resources/dotnet_logo.png" alt=html5 width="60" height="60"/> 
-	<img style="margin: auto;" src="./resources/ef_logo.png" alt=css3 width="60" height="60"/>
-	<img style="margin: auto;" src="./resources/sql_server_logo.png" alt=css3 width="60" height="60"/>
-	<img style="margin: auto;" src="./resources/postgresql_logo.png" alt=html5 width="60" height="60"/>
-	<img style="margin: auto;" src="./resources/Mongodb_logo.webp" alt=html5 width="60" height="60"/>
-	<img style="margin: auto;" src="./resources/redis_logo.png" alt=css3 width="60" height="60"/>
-	<img style="margin: auto;" src="./resources/Firebase_logo.webp" alt=css3 width="60" height="60"/>
-	<img style="margin: auto;" src="./resources/docker_logo.webp" alt=html5 width="60" height="60"/> 
-	<img style="margin: auto;" src="./resources/docker_compose_logo.png" alt=html5 width="60" height="60"/> 
-	<img style="margin: auto;" src="./resources/Kubernetes_logo.png" alt=css3 width="60" height="60"/> 
-	<img style="margin: auto;" src="./resources/HTML5_logo.png" alt=html5 width="60" height="60"/> 
-	<img style="margin: auto;" src="./resources/css_logo.png" alt=css3 width="60" height="60"/>   
-	<img style="margin: auto;" src="./resources/git_logo.png" alt=html5 width="60" height="60"/> 
-	<img style="margin: auto;" src="./resources/google_logo.png" alt=css3 width="60" height="60"/>
-	<img style="margin: auto;" src="./resources/ChatGPT_logo.png" alt=css3 width="60" height="60"/>
-	<img style="margin: auto;" src="./resources/guthubActions_logo.png" alt=html5 width="60" height="60"/> 
-	<img style="margin: auto;" src="./resources/jwt_logo.png" alt=css3 width="60" height="60"/>   
-	<img style="margin: auto;" src="./resources/signar_logo.png" alt=css3 width="60" height="60"/> 
-	<img style="margin: auto;" src="./resources/sonarcloud_logo.svg" alt=css3 width="60" height="60"/>  
-	<img style="margin: auto;" src="./resources/xunit_logo.png" alt=css3 width="60" height="60"/> 
+	<img style="margin: auto;" src="./resources/dotnet_logo.png" alt=dotnet width="60" height="60"/> 
+	<img style="margin: auto;" src="./resources/ef_logo.png" alt=EntityFramework width="60" height="60"/>
+	<img style="margin: auto;" src="./resources/sql_server_logo.png" alt=SQL_Server width="60" height="60"/>
+	<img style="margin: auto;" src="./resources/postgresql_logo.png" alt=PostgreSQL width="60" height="60"/>
+	<img style="margin: auto;" src="./resources/Mongodb_logo.webp" alt=MongoDB width="60" height="60"/>
+	<img style="margin: auto;" src="./resources/redis_logo.png" alt=Redis width="60" height="60"/>
+	<img style="margin: auto;" src="./resources/Firebase_logo.webp" alt=Firebase width="60" height="60"/>
+	<img style="margin: auto;" src="./resources/docker_logo.webp" alt=Docker width="60" height="60"/> 
+	<img style="margin: auto;" src="./resources/docker_compose_logo.png" alt=Docker_Compose width="60" height="60"/> 
+	<img style="margin: auto;" src="./resources/Kubernetes_logo.png" alt=Kubernetes width="60" height="60"/> 
+	<img style="margin: auto;" src="./resources/HTML5_logo.png" alt=HTML width="60" height="60"/> 
+	<img style="margin: auto;" src="./resources/css_logo.png" alt=CSS width="60" height="60"/>   
+	<img style="margin: auto;" src="./resources/git_logo.png" alt=git width="60" height="60"/> 
+	<img style="margin: auto;" src="./resources/google_logo.png" alt=Google width="60" height="60"/>
+	<img style="margin: auto;" src="./resources/ChatGPT_logo.png" alt=CharGPT width="60" height="60"/>
+	<img style="margin: auto;" src="./resources/guthubActions_logo.png" alt=GitHub_Actions width="60" height="60"/> 
+	<img style="margin: auto;" src="./resources/jwt_logo.png" alt=JWT width="60" height="60"/>   
+	<img style="margin: auto;" src="./resources/signar_logo.png" alt=SignalR width="60" height="60"/> 
+	<img style="margin: auto;" src="./resources/sonarcloud_logo.svg" alt=SonarCloud width="60" height="60"/>  
+	<img style="margin: auto;" src="./resources/xunit_logo.png" alt=xUnit width="60" height="60"/> 
 </p>
 
 <h4>Desktop Environment (Среды разработки): </h4>
 <p align="left">
-	<img style="margin: auto;" src="./resources/vs_logo.png" alt=slack width="60" height="60"/>
-	<img style="margin: auto;" src="./resources/vsc_logo.png" alt=vs width="60" height="60"/>
+	<img style="margin: auto;" src="./resources/vs_logo.png" alt=Visual_Studio width="60" height="60"/>
+	<img style="margin: auto;" src="./resources/vsc_logo.png" alt=isual_Studio_Code width="60" height="60"/>
 </p>
 
+<h4 align="center">Contact me (Связь со мной): </h4>
 <p align="center">
-	<a href=https://codepen.io/sachuverma target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg alt="sachuverma" height="40" width="40" /></a>
-	<a href=https://twitter.com/sachuverma_ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="sachuverma_" height="40" width="40" /></a>
-	<a href=https://linkedin.com/in/sachuverma target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="sachuverma" height="40" width="40" /></a>
-	<a href=https://instagram.com/sachuverma_ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="sachuverma_" height="40" width="40" /></a>
+	<a href=https://t.me/rick_biuick target="blank"><img align="center" src=./resources/Telegram_logo.webp alt="Telegram" height="40" width="40" /></a>
+	<a href="mailto:roman.shubin2001@mail.ru" target="blank"><img align="center" src=./resources/mail_logo.png alt=Email height="40" width="40" /></a>
 </p>
