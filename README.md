@@ -9,7 +9,7 @@
 
 <h4>Skills and Tools (Инструменты): </h4>
 <p align="left">
-	<img style="margin: auto;" src="./resources/Asp_logo.png" alt=html5 width="60" height="60"/> 
+	<img style="margin: auto;" src="./resources/dotnet_logo.png" alt=html5 width="60" height="60"/> 
 	<img style="margin: auto;" src="./resources/ChatGPT_logo.png" alt=css3 width="60" height="60"/>
   <img style="margin: auto;" src="./resources/Docker_logo.png" alt=html5 width="60" height="60"/> 
 	<img style="margin: auto;" src="./resources/Firebase_logo.png" alt=css3 width="60" height="60"/> 
