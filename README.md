@@ -31,7 +31,7 @@
 	<img style="margin: auto;" src="./resources/GithubActions_logo.png" alt=GitHub_Actions width="60" height="60"/> 
 	<img style="margin: auto;" src="./resources/JWT_logo.svg" alt=JWT width="60" height="60"/>   
 	<img style="margin: auto;" src="./resources/SignaR_logo.png" alt=SignalR width="60" height="60"/> 
-	<img style="margin: auto;" src="./resources/SonarCloud_logo.svg" alt=SonarCloud width="60" height="60"/>  
+	<img style="margin: auto;" src="./resources/SonarCloud_logo.png" alt=SonarCloud width="60" height="60"/>  
 	<img style="margin: auto;" src="./resources/xUnit_logo.png" alt=xUnit width="60" height="60"/> 
 </p>
 
@@ -39,7 +39,7 @@
 <p align="left">
 	<img style="margin: auto;" src="./resources/VS_logo.png" alt=Visual_Studio width="60" height="60"/>
 	<img style="margin: auto;" src="./resources/VSC_logo.png" alt=Visual_Studio_Code width="60" height="60"/>
-	<img style="margin: auto;" src="./resources/Google_Colab_logo.png" alt=Visual_Studio_Code width="60" height="60"/>
+	<img style="margin: auto;" src="./resources/Google_Colab_logo.png" alt=Google_Colab width="60" height="60"/>
 </p>
 
 <h4 align="center"> Higher Education (Высшее образование)🎓:</h4>
