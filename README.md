@@ -25,7 +25,7 @@
 	<img style="margin: auto;" src="./resources/google_logo.png" alt=Google width="60" height="60"/>
 	<img style="margin: auto;" src="./resources/ChatGPT_logo.png" alt=CharGPT width="60" height="60"/>
 	<img style="margin: auto;" src="./resources/guthubActions_logo.png" alt=GitHub_Actions width="60" height="60"/> 
-	<img style="margin: auto;" src="./resources/jwt_logo.png" alt=JWT width="60" height="60"/>   
+	<img style="margin: auto;" src="./resources/jwt_logo.svg" alt=JWT width="60" height="60"/>   
 	<img style="margin: auto;" src="./resources/signar_logo.png" alt=SignalR width="60" height="60"/> 
 	<img style="margin: auto;" src="./resources/sonarcloud_logo.svg" alt=SonarCloud width="60" height="60"/>  
 	<img style="margin: auto;" src="./resources/xunit_logo.png" alt=xUnit width="60" height="60"/> 
