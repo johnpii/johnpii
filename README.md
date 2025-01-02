@@ -17,7 +17,7 @@
 	<img style="margin: auto;" src="./resources/redis_logo.png" alt=Redis width="60" height="60"/>
 	<img style="margin: auto;" src="./resources/Firebase_logo.webp" alt=Firebase width="60" height="60"/>
 	<img style="margin: auto;" src="./resources/docker_logo.webp" alt=Docker width="60" height="60"/> 
-	<img style="margin: auto;" src="./resources/docker_compose_logo.png" alt=Docker_Compose width="60" height="60"/> 
+	<img style="margin: auto;" src="./resources/Docker_Compose_logo.png" alt=Docker_Compose width="60" height="60"/> 
 	<img style="margin: auto;" src="./resources/Kubernetes_logo.png" alt=Kubernetes width="60" height="60"/> 
 	<img style="margin: auto;" src="./resources/HTML5_logo.png" alt=HTML width="60" height="60"/> 
 	<img style="margin: auto;" src="./resources/CSS_logo.png" alt=CSS width="60" height="60"/>   
