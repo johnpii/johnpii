@@ -37,7 +37,7 @@
 	<img style="margin: auto;" src="./resources/vsc_logo.png" alt=isual_Studio_Code width="60" height="60"/>
 </p>
 
-<h4 align="center">Contact me (Связь со мной): </h4>
+<h4 align="center">Contacts (Связь со мной): </h4>
 <p align="center">
 	<a href=https://t.me/rick_biuick target="blank"><img align="center" src=./resources/Telegram_logo.webp alt="Telegram" height="40" width="40" /></a>
 	<a href="mailto:roman.shubin2001@mail.ru" target="blank"><img align="center" src=./resources/mail_logo.png alt=Email height="40" width="40" /></a>
