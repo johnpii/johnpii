@@ -2,15 +2,15 @@
 
 <h4>Programming Languages (Языки программирования): </h4>
 <p align="left">
-	 <img style="margin: auto;" src="./resources/C_Sharp_logo.webp" alt=cplusplus width="60" height="60"/>
-	 <img style="margin: auto;" src="./resources/JavaScript_logo.png" alt=c width="60" height="60"/>
-	 <img style="margin: auto;" src="./resources/Python_logo.png" alt=python width="60" height="60"/>
+	 <img style="margin: auto;" src="./resources/C_Sharp_logo.webp" alt=C_Sharp width="60" height="60"/>
+	 <img style="margin: auto;" src="./resources/JavaScript_logo.png" alt=JavaScript width="60" height="60"/>
+	 <img style="margin: auto;" src="./resources/Python_logo.png" alt=Python width="60" height="60"/>
 </p>
 
 <h4>Skills and Tools (Инструменты): </h4>
 <p align="left">
 	<img style="margin: auto;" src="./resources/dotnet_logo.png" alt=dotnet width="60" height="60"/> 
-	<img style="margin: auto;" src="./resources/EF_logo.png" alt=EntityFramework width="60" height="60"/>
+	<img style="margin: auto;" src="./resources/EF_logo.png" alt=Entity_Framework width="60" height="60"/>
 	<img style="margin: auto;" src="./resources/SQL_Server_logo.png" alt=SQL_Server width="60" height="60"/>
 	<img style="margin: auto;" src="./resources/Postgresql_logo.png" alt=PostgreSQL width="60" height="60"/>
 	<img style="margin: auto;" src="./resources/Mongodb_logo.webp" alt=MongoDB width="60" height="60"/>
