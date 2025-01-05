@@ -20,6 +20,7 @@
 	<img style="margin: auto;" src="./resources/Mongodb_logo.webp" alt=MongoDB width="60" height="60"/>
 	<img style="margin: auto;" src="./resources/Redis_logo.png" alt=Redis width="60" height="60"/>
 	<img style="margin: auto;" src="./resources/Firebase_logo.webp" alt=Firebase width="60" height="60"/>
+	<img style="margin: auto;" src="./resources/RabbitMQ_logo.png" alt=RabbitMQ width="60" height="60"/>
 	<img style="margin: auto;" src="./resources/Docker_logo.webp" alt=Docker width="60" height="60"/> 
 	<img style="margin: auto;" src="./resources/Docker_Compose_logo.png" alt=Docker_Compose width="60" height="60"/> 
 	<img style="margin: auto;" src="./resources/Kubernetes_logo.png" alt=Kubernetes width="60" height="60"/> 
