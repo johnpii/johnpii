@@ -14,6 +14,7 @@
 <h4>Skills and Tools (Инструменты): </h4>
 <p align="left">
 	<img style="margin: auto;" src="./resources/dotnet_logo.png" alt=dotnet width="60" height="60"/> 
+	<img style="margin: auto;" src="./resources/ASPNET_logo.png" alt=ASP.NET width="60" height="60"/> 
 	<img style="margin: auto;" src="./resources/EF_logo.png" alt=Entity_Framework width="60" height="60"/>
 	<img style="margin: auto;" src="./resources/SQL_Server_logo.png" alt=SQL_Server width="60" height="60"/>
 	<img style="margin: auto;" src="./resources/PostgreSQL_logo.png" alt=PostgreSQL width="60" height="60"/>
