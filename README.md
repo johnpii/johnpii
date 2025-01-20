@@ -9,6 +9,7 @@
 	 <img style="margin: auto;" src="./resources/C_Sharp_logo.webp" alt=C_Sharp width="60" height="60"/>
 	 <img style="margin: auto;" src="./resources/JavaScript_logo.png" alt=JavaScript width="60" height="60"/>
 	 <img style="margin: auto;" src="./resources/Python_logo.png" alt=Python width="60" height="60"/>
+	 <img style="margin: auto;" src="./resources/TypeScript_logo.png" alt=TypeScript width="60" height="60"/>
 </p>
 
 <h4>Skills and Tools (Инструменты): </h4>
