@@ -28,6 +28,7 @@
 	<img style="margin: auto;" src="./resources/Docker_Compose_logo.png" alt=Docker_Compose width="60" height="60"/> 
 	<img style="margin: auto;" src="./resources/Kubernetes_logo.png" alt=Kubernetes width="60" height="60"/> 
 	<img style="margin: auto;" src="./resources/React_logo.png" alt=React width="60" height="60"/>
+	<img style="margin: auto;" src="./resources/Mobx_logo.png" alt=Mobx width="60" height="60"/>
 	<img style="margin: auto;" src="./resources/HTML_logo.png" alt=HTML width="60" height="60"/> 
 	<img style="margin: auto;" src="./resources/CSS_logo.png" alt=CSS width="60" height="60"/>
 	<img style="margin: auto;" src="./resources/Sass_logo.png" alt=Sass width="60" height="60"/>
